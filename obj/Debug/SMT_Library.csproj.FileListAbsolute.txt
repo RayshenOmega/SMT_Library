@@ -1,0 +1,2 @@
+E:\SMT_Lib\SMT_Library\obj\Debug\SMT_Library.csproj.AssemblyReference.cache
+E:\SMT_Lib\SMT_Library\obj\Debug\SMT_Library.csproj.CoreCompileInputs.cache
